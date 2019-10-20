@@ -1,1 +1,64 @@
-[13:34:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@666bd2ba[id=<null>,name=Aschman13,properties={},legacy=false] (/10.66.66.228:51726) lost connection: Disconnected
+[11:08:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:08:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:08:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:08:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:08:43] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[11:08:43] [Server thread/INFO]: Loading properties
+[11:08:43] [Server thread/INFO]: Default game type: SURVIVAL
+[11:08:43] [Server thread/INFO]: Generating keypair
+[11:08:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:08:43] [Server thread/INFO]: Using epoll channel type
+[11:08:43] [Server thread/INFO]: Preparing level "world"
+[11:08:43] [Server thread/INFO]: Reloading ResourceManager: Default
+[11:08:45] [Server thread/INFO]: Loaded 6 recipes
+[11:08:45] [Server thread/INFO]: Loaded 811 advancements
+[11:08:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:08:48] [Server thread/INFO]: Preparing spawn area: 0%
+[11:08:48] [Server thread/INFO]: Preparing spawn area: 0%
+[11:08:48] [Server thread/INFO]: Preparing spawn area: 0%
+[11:08:48] [Server thread/INFO]: Preparing spawn area: 0%
+[11:08:48] [Server thread/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[11:08:59] [Server thread/INFO]: Preparing spawn area: 23%
+[11:09:00] [Server thread/INFO]: Time elapsed: 13289 ms
+[11:09:00] [Server thread/INFO]: Done (16.448s)! For help, type "help"
+[11:10:50] [User Authenticator #1/INFO]: UUID of player MrDigital1 is a499fdbd-89eb-44c4-95a2-68aec6310f0f
+[11:10:50] [Server thread/INFO]: MrDigital1[/10.66.66.106:61378] logged in with entity id 159 at (-194.96033685711993, 64.0, -161.32690135834613)
+[11:10:50] [Server thread/INFO]: MrDigital1 joined the game
+[11:10:59] [Server thread/INFO]: MrDigital1 lost connection: Disconnected
+[11:10:59] [Server thread/INFO]: MrDigital1 left the game
+[11:11:06] [Server thread/INFO]: Unknown command
+[11:11:06] [Server thread/INFO]: <--[HERE]
+[11:11:08] [Server thread/INFO]: Stopping the server
+[11:11:08] [Server thread/INFO]: Stopping server
+[11:11:08] [Server thread/INFO]: Saving players
+[11:11:08] [Server thread/INFO]: Saving worlds
+[11:11:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[11:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:11:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[11:11:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:11:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[11:11:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:11:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:11:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:11:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
