@@ -1,11 +1,1 @@
-[10:04:57] [Server thread/INFO]: Stopping the server
-[10:04:57] [Server thread/INFO]: Stopping server
-[10:04:57] [Server thread/INFO]: Saving players
-[10:04:57] [Server thread/INFO]: Saving worlds
-[10:04:57] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[10:04:58] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[10:04:58] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[10:04:58] [Server Shutdown Thread/INFO]: Stopping server
-[10:04:58] [Server Shutdown Thread/INFO]: Saving players
-[10:04:58] [Server Shutdown Thread/INFO]: Saving worlds
-[10:04:58] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[13:34:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@666bd2ba[id=<null>,name=Aschman13,properties={},legacy=false] (/10.66.66.228:51726) lost connection: Disconnected
