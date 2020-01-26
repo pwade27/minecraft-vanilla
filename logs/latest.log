@@ -1,1 +1,13 @@
-[13:34:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@666bd2ba[id=<null>,name=Aschman13,properties={},legacy=false] (/10.66.66.228:51726) lost connection: Disconnected
+[17:09:11] [Server thread/INFO]: Stopping the server
+[17:09:11] [Server thread/INFO]: Stopping server
+[17:09:11] [Server thread/INFO]: Saving players
+[17:09:11] [Server thread/INFO]: Saving worlds
+[17:09:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:09:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:09:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:09:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:09:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:09:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:09:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:09:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:09:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
