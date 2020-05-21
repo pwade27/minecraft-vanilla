@@ -1,45 +1,17 @@
-[17:21:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:21:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:21:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:21:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:21:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:21:49] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[17:21:49] [Server thread/INFO]: Loading properties
-[17:21:49] [Server thread/INFO]: Default game type: SURVIVAL
-[17:21:49] [Server thread/INFO]: Generating keypair
-[17:21:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:21:50] [Server thread/INFO]: Using epoll channel type
-[17:21:50] [Server thread/INFO]: Preparing level "world"
-[17:21:50] [Server thread/INFO]: Reloading ResourceManager: Default
-[17:21:52] [Server thread/INFO]: Loaded 6 recipes
-[17:21:52] [Server thread/INFO]: Loaded 825 advancements
-[17:22:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:22:09] [Server thread/INFO]: Preparing spawn area: 0%
-[17:22:09] [Server thread/INFO]: Preparing spawn area: 0%
-[17:22:09] [Server thread/INFO]: Preparing spawn area: 0%
-[17:22:09] [Server thread/INFO]: Preparing spawn area: 0%
-[17:22:09] [Server thread/INFO]: Preparing spawn area: 0%
-[17:22:09] [Server thread/INFO]: Preparing spawn area: 0%
-[17:22:10] [Server thread/INFO]: Preparing spawn area: 0%
-[17:22:10] [Server thread/INFO]: Time elapsed: 3444 ms
-[17:22:10] [Server thread/INFO]: Done (19.890s)! For help, type "help"
-[17:22:55] [User Authenticator #1/INFO]: UUID of player MrDigital1 is a499fdbd-89eb-44c4-95a2-68aec6310f0f
-[17:22:56] [Server thread/INFO]: MrDigital1[/10.66.66.106:58305] logged in with entity id 163 at (-189.30000001192093, 68.0, -157.93823233287483)
-[17:22:56] [Server thread/INFO]: MrDigital1 joined the game
-[17:25:26] [Server thread/INFO]: MrDigital1 lost connection: Disconnected
-[17:25:26] [Server thread/INFO]: MrDigital1 left the game
-[17:25:35] [Server thread/INFO]: Unknown command
-[17:25:35] [Server thread/INFO]: <--[HERE]
-[17:25:36] [Server thread/INFO]: Stopping the server
-[17:25:36] [Server thread/INFO]: Stopping server
-[17:25:36] [Server thread/INFO]: Saving players
-[17:25:36] [Server thread/INFO]: Saving worlds
-[17:25:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[17:25:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:25:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[17:25:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:25:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:25:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:25:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:25:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:25:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:51:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@5518699c[id=<null>,name=CloroxBleachChan,properties={},legacy=false] (/3.85.185.16:36884) lost connection: Disconnected
+[03:51:43] [User Authenticator #3/INFO]: UUID of player NeoRusher is 71ada63c-6fef-4b34-88a8-1e7e299c9a74
+[03:51:43] [Server thread/INFO]: NeoRusher[/3.85.114.190:37796] logged in with entity id 392 at (45.5, 64.0, -128.5)
+[03:51:43] [Server thread/INFO]: NeoRusher joined the game
+[03:51:43] [Server thread/INFO]: NeoRusher lost connection: Disconnected
+[03:51:43] [Server thread/INFO]: NeoRusher left the game
+[03:51:45] [User Authenticator #4/INFO]: UUID of player LinuxConsole is 818b41fb-a670-4289-85c7-350bbe4a3882
+[03:51:45] [Server thread/INFO]: LinuxConsole[/18.234.53.159:51554] logged in with entity id 451 at (46.5, 64.0, -128.5)
+[03:51:45] [Server thread/INFO]: LinuxConsole joined the game
+[03:51:45] [Server thread/INFO]: LinuxConsole lost connection: Disconnected
+[03:51:45] [Server thread/INFO]: LinuxConsole left the game
+[03:51:59] [User Authenticator #5/INFO]: UUID of player CloroxBleachChan is e06e7ea4-754e-41a2-baff-d80a97d2c931
+[03:51:59] [Server thread/INFO]: CloroxBleachChan[/3.85.185.16:37726] logged in with entity id 468 at (41.5, 65.0, -132.5)
+[03:51:59] [Server thread/INFO]: CloroxBleachChan joined the game
+[03:52:00] [Server thread/INFO]: CloroxBleachChan lost connection: Disconnected
+[03:52:00] [Server thread/INFO]: CloroxBleachChan left the game
+[03:52:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@5038720a[id=<null>,name=NeoRusher,properties={},legacy=false] (/3.85.114.190:39546) lost connection: Disconnected
