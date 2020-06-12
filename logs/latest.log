@@ -1,17 +1,15 @@
-[03:51:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@5518699c[id=<null>,name=CloroxBleachChan,properties={},legacy=false] (/3.85.185.16:36884) lost connection: Disconnected
-[03:51:43] [User Authenticator #3/INFO]: UUID of player NeoRusher is 71ada63c-6fef-4b34-88a8-1e7e299c9a74
-[03:51:43] [Server thread/INFO]: NeoRusher[/3.85.114.190:37796] logged in with entity id 392 at (45.5, 64.0, -128.5)
-[03:51:43] [Server thread/INFO]: NeoRusher joined the game
-[03:51:43] [Server thread/INFO]: NeoRusher lost connection: Disconnected
-[03:51:43] [Server thread/INFO]: NeoRusher left the game
-[03:51:45] [User Authenticator #4/INFO]: UUID of player LinuxConsole is 818b41fb-a670-4289-85c7-350bbe4a3882
-[03:51:45] [Server thread/INFO]: LinuxConsole[/18.234.53.159:51554] logged in with entity id 451 at (46.5, 64.0, -128.5)
-[03:51:45] [Server thread/INFO]: LinuxConsole joined the game
-[03:51:45] [Server thread/INFO]: LinuxConsole lost connection: Disconnected
-[03:51:45] [Server thread/INFO]: LinuxConsole left the game
-[03:51:59] [User Authenticator #5/INFO]: UUID of player CloroxBleachChan is e06e7ea4-754e-41a2-baff-d80a97d2c931
-[03:51:59] [Server thread/INFO]: CloroxBleachChan[/3.85.185.16:37726] logged in with entity id 468 at (41.5, 65.0, -132.5)
-[03:51:59] [Server thread/INFO]: CloroxBleachChan joined the game
-[03:52:00] [Server thread/INFO]: CloroxBleachChan lost connection: Disconnected
-[03:52:00] [Server thread/INFO]: CloroxBleachChan left the game
-[03:52:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@5038720a[id=<null>,name=NeoRusher,properties={},legacy=false] (/3.85.114.190:39546) lost connection: Disconnected
+[08:03:27] [Server thread/INFO]: Unknown command
+[08:03:27] [Server thread/INFO]: /quit<--[HERE]
+[08:03:35] [Server thread/INFO]: Stopping the server
+[08:03:35] [Server thread/INFO]: Stopping server
+[08:03:35] [Server thread/INFO]: Saving players
+[08:03:35] [Server thread/INFO]: Saving worlds
+[08:03:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[08:03:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:03:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[08:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:03:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[08:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
