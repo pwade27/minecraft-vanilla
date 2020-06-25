@@ -1,15 +1,13 @@
-[08:03:27] [Server thread/INFO]: Unknown command
-[08:03:27] [Server thread/INFO]: /quit<--[HERE]
-[08:03:35] [Server thread/INFO]: Stopping the server
-[08:03:35] [Server thread/INFO]: Stopping server
-[08:03:35] [Server thread/INFO]: Saving players
-[08:03:35] [Server thread/INFO]: Saving worlds
-[08:03:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[08:03:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:03:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[08:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:03:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[08:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:17:37] [Server thread/INFO]: Stopping the server
+[14:17:37] [Server thread/INFO]: Stopping server
+[14:17:37] [Server thread/INFO]: Saving players
+[14:17:37] [Server thread/INFO]: Saving worlds
+[14:17:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[14:17:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:17:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[14:17:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:17:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[14:17:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:17:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:17:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:17:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
