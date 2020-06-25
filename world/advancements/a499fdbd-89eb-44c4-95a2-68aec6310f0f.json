@@ -394,13 +394,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-08-12 08:36:35 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-08-12 08:36:35 -0700"
     },
@@ -1137,12 +1137,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2018-08-01 10:49:55 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-08-12 08:36:35 -0700"
@@ -1218,12 +1212,6 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2018-08-11 23:00:42 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_log": "2018-08-12 15:38:30 -0700"
     },
     "done": true
   },
@@ -1671,5 +1659,5 @@
     },
     "done": true
   },
-  "DataVersion": 2230
+  "DataVersion": 2567
 }
